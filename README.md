@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>⚫ ➤ I need a company where I can do my compulsory summer internship and improve myself..!</h3> 
+<h3>⚫ ➤ </h3> 
 
 <a href="https://www.linkedin.com/in/zoothii/">
 <img alt="ZootHii Linkedin" src="https://user-images.githubusercontent.com/34456517/108375286-dd237b80-7212-11eb-981a-c5391863b7f6.png" width=45" height="45">
