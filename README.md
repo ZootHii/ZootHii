@@ -27,5 +27,4 @@ Familiar with:<br>
 <img src="https://komarev.com/ghpvc/?username=ZootHii&label=Profile%20views&color=0e75b6&style=flat" alt="ZootHii" />
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZootHii&exclude_repo=MyMemoryApp,AddandRemovePatient,Desing-And-Analysis-of-Algorithms,Pygame,Object-Pooling-Algorithms-Project,ArtBook,Learning-API-COVID-19,Data-Structures-HW2,Data-Structures-HW1,MyApplication,2DWalkthrough,AYBUProject&hide=shaderlab,makefile&layout=demo&theme=radical&hide_border=true)](https://github.com/ZootHii/github-readme-stats)
 ![ZootHii's Github Stats](https://github-readme-stats.vercel.app/api?username=ZootHii&show_icons=true&theme=radical&hide=prs&hide_border=true)
