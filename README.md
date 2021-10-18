@@ -7,7 +7,7 @@ Familiar with:<br>
 • Java, Spring Boot, JPA-Hibernate, Spring Security<br>
 • C#, .NET Core, AOP, Entitiy Framework, Autofac DI, Fluentvalidation<br>
 • SQL: MSSQL, PostgreSQL, MySQL<br>
-• Tools: Docker (running databases on Docker), Postman<br>
+• Tools: Docker (running databases on Docker), Postman, Swagger<br>
 • Android, Kotlin, MVVM Design, Retrofit, Dagger Hilt, Room<br>
 • Angular, HTML5, Bootstrap, CSS<br>
 
