@@ -3,15 +3,13 @@
 <h3>⚫ ➤ Open to part-time jobs in Ankara</h3> 
 
 Familiar with:<br>
-• RESTful Api, SOLID design principles, OOP, IoC, DI<br>
-• C#, .NET Core, ASP.NET, AOP, Entitiy Framework, Autofac Dependency Injection, Fluentvalidation<br>
+• RESTful Api, SOLID design principles, OOP<br>
 • Java, Spring Boot, JPA-Hibernate, Spring Security<br>
+• C#, .NET Core, AOP, Entitiy Framework, Autofac DI, Fluentvalidation<br>
+• SQL: MSSQL, PostgreSQL, MySQL<br>
+• Tools: Docker (running databases on Docker), Postman<br>
 • Android, Kotlin, MVVM Design, Retrofit, Dagger Hilt, Room<br>
 • Angular, HTML5, Bootstrap, CSS<br>
-• NoSQL: Firebase<br>
-• SQL: MSSQL, PostgreSQL, MySQL<br>
-• NoSQL: Firebase<br>
-• Docker: running databases on Docker<br>
 
 <a href="https://www.linkedin.com/in/zoothii/">
 <img alt="ZootHii Linkedin" src="https://user-images.githubusercontent.com/34456517/108375286-dd237b80-7212-11eb-981a-c5391863b7f6.png" width=45" height="45">
