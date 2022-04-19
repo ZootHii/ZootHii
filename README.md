@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+<h3>⚫ ➤ </h3>
+
 Familiar with:<br>
-• RESTful Api, SOLID design principles, OOP<br>
-• Java, Spring Boot, JPA-Hibernate, Spring Security<br>
+• RESTful Api, SOLID design principles, OOP, Design Patterns<br>
+• Java, Spring Boot, JPA-Hibernate, Spring Security, Spring Websocket<br>
 • C#, .NET Core, AOP, Entitiy Framework, Autofac DI, Fluentvalidation<br>
-• SQL: MSSQL, PostgreSQL, MySQL<br>
-• Tools: Docker (running databases on Docker), Postman, Swagger<br>
-• Android, Kotlin, MVVM Design, Retrofit, Dagger Hilt, Room<br>
-• Angular, HTML5, Bootstrap, CSS<br>
+• PostgreSQL, MSSQL, Redis<br>
+• Git (Github, Bitbucket), Postman, IntelliJ IDEA, VS Code<br>
+• Kotlin, Android, Retrofit, Dagger Hilt, Room<br>
+• Angular, TypeScript, JavaScript<br>
 
 <a href="https://www.linkedin.com/in/zoothii/">
 <img alt="ZootHii Linkedin" src="https://user-images.githubusercontent.com/34456517/108375286-dd237b80-7212-11eb-981a-c5391863b7f6.png" width=45" height="45">
