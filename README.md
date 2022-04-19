@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3>⚫ ➤ Open to part-time jobs in Ankara</h3> 
-
 Familiar with:<br>
 • RESTful Api, SOLID design principles, OOP<br>
 • Java, Spring Boot, JPA-Hibernate, Spring Security<br>
