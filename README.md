@@ -14,7 +14,7 @@ I am a **Java Backend Software Engineer** focused on building scalable systems a
 * **[RentCarSystem FrontEnd](https://github.com/ZootHii/RentCarSystemFrontEnd):** The Angular and TypeScript based UI for the RentCarSystem.
 
 #### 🎮 Game Development (Unity)
-* **[2DWalkthrough](https://github.com/ZootHii/2DWalkthrough):** Individual branch project showcasing Unity game development skills.
+* **[2DWalkthrough](https://github.com/ZootHii/2DWalkthrough/tree/individual):** Individual branch project showcasing Unity game development skills.
 * **[Simple Dice Roller](https://github.com/ZootHii/SimpleDiceRoller):** A utility application developed with Unity and published on the **Google Play Store**.
 
 #### 📱 Mobile Development
