@@ -26,7 +26,7 @@ I am a **Java Backend Software Engineer** focused on building scalable systems a
 ### 🛠️ Tech Stack
 * **Languages:** Java, C#, Kotlin, TypeScript, SQL
 * **Frameworks:** Spring Boot, .NET Core, React, Angular
-* **Tools & DB:** Kafka, PostgreSQL, Mongo, Docker, Firebase, Redis, Elasticsearch
+* **Tools & DB:** Kafka, PostgreSQL, Mongo, Docker, Websocket, Huawei Cloud, Redis, Elasticsearch, Git, Postman, Firebase, Jira
 * **Engines:** Unity
 
 ---
