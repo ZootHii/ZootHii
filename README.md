@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Java Backend Software Engineer** focused on building scalable systems, microservices architectures. While my core expertise lies in building scalable backend systems, I am a versatile developer with a diverse portfolio that includes full-stack projects, mobile apps, game development.
+I am a **Java Backend Software Engineer** focused on building scalable systems and microservices architectures. Complementing my core backend expertise, I have hands-on experience in Cloud systems and SRE practices, ensuring robust and resilient infrastructure. I am a versatile developer with a diverse portfolio that also includes full-stack projects, mobile applications, and game development.
 
 ---
 
